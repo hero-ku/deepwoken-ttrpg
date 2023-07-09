@@ -1,6 +1,6 @@
-# Deepwoken TTRPG
+# Deepwoken RPG
 
-Deepwoken TTRPG (Tabletop Role-playing Game) is a tabletop role-playing game with systems and content based around the world of [Deepwoken](https://www.roblox.com/games/4111023553/Deepwoken-Verse-2), a permadeath RPG on Roblox.
+Deepwoken RPG (Tabletop Role-playing Game) is a tabletop role-playing game with systems and content based around the world of [Deepwoken](https://www.roblox.com/games/4111023553/Deepwoken-Verse-2), a permadeath RPG on Roblox.
 
 ## Why is this on GitHub?
 
