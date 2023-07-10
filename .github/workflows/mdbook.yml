@@ -35,8 +35,8 @@ jobs:
       
       - uses: extractions/setup-crate@v1
         with:
-        owner: rust-lang
-        name: mdBook
+          owner: rust-lang
+          name: mdBook
           
       - name: Setup Pages
         id: pages
